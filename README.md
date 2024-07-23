@@ -54,11 +54,9 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "DevOps Engineer"
+    "Networking Engineer",
+    "IT & Virtualisation Engineer",
   ]
   
 currently_learning: ["Docker, Kubernetes, and Tekton"]
